@@ -1,0 +1,11 @@
+﻿Codigo;Categoria;Produto;Valor Unitário;Quantidade;Total da Venda;Meta Unitário
+1;Fruta;Uva;5,01;10;50,10;100
+2;Fruta;Banana;5,29;520;2750,80;200
+3;Fruta;Laranja;8,30;60;498,00;3690
+4;Fruta;Maça;1,20;25;30,00;200
+5;Limpeza;Detergente;2,56;842;2155,52;360
+6;Limpeza;Sabão;8,25;526;4339,50;3580
+7;Fruta;Manga;1,35;5;6,75;250
+8;Limpeza;Bucha;9,20;2514;23128,80;220
+9;Fruta;Caqui;4,00;35;140,00;360
+10;Limpeza;Amaciante;4,28;55;235,40;3590
